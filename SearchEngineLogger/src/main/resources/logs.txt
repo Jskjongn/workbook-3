@@ -1,0 +1,7 @@
+2025-04-24 11:48:12 launch
+2025-04-24 11:48:21 search : How to make a grilled cheese?
+2025-04-24 11:48:28 search : How to put out a grease fire?
+2025-04-24 11:48:35 search : What is the number for the fire department?
+2025-04-24 11:48:48 search : I lost everything, what to do now?
+2025-04-24 11:48:53 search : Help
+2025-04-24 11:48:57 exit
