@@ -19,6 +19,10 @@ public class SearchEngineLoggerApp {
         // starts log file with launch when it starts up
         logger("launch");
 
+        // welcome message for user
+        System.out.println("Welcome to Search Engine App -- Happy searching!");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+
         // variable to keep the app running or not
         boolean appRunning = true;
 
@@ -26,8 +30,6 @@ public class SearchEngineLoggerApp {
         while(appRunning){
 
             // displays question to user and stores their input
-            System.out.println("Welcome to Search Engine App -- Happy searching!");
-            System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
             System.out.println("Enter a search term (X to exit): ");
             String searchTerm = userInput.nextLine();
 
